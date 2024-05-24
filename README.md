@@ -1,6 +1,6 @@
 # DX Workshop Guide
 
-The DX Workshop is designed to assist teams in pinpointing specific issues their developers encounter with the most problematic drivers, as highlighted in their most recent [Developer Experience surveys](https://getdx.com/products/devex360/).
+The DX Workshop is designed to assist teams in pinpointing specific issues their developers encounter with the most problematic drivers, as highlighted in their most recent Developer Experience surveys, for engineering organizations using [DevEx 360](https://getdx.com/products/devex360/) Surveys.
 
 The structure of the Workshop ensures that every developer within a team, regardless of seniority or influence, has an equal opportunity to voice their concerns and propose solutions.
 
