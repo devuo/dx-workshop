@@ -55,7 +55,7 @@ As you can see in the example below for _Example Team_, 4 drivers were identifie
 Clone the [DX Workshop File](https://lucid.app/lucidspark/0e330442-36f7-485f-85cd-69df81ff45fb/edit?viewport_loc=-35%2C-2053%2C5874%2C4874%2C0_0&invitationId=inv_3f01b3cc-74f5-4f5b-91a3-d99c73d58730) and then:
 
 - **In DX**:
-  - Take screenshots of DX Heatmap for your tribe for:
+  - Take screenshots of DX Heatmap for your team for:
     - Sentiment (compared to none)
     - Sentiment (compared to previous snapshot)
     - Sentiment (compared to pipedrive average)
@@ -164,7 +164,7 @@ The Workshop Summary document should have the following structure:
 - Screenshot of Sentiment Headmap (absolute values)
 - Statement about the state of the team when looking solely at absolute numbers (e.g. team might have degraded/improved greatly in some drivers but still be mostly positive/negative)
 - Screenshot of Sentiment Headmap (compared with company team's average)
-- Statement about the state of the team when comparing with the average (e.g. some drivers might be negative, but aligned with other tribes or considerably better than other tribes). Offer a neutral and reasonable explanation why the team sentiment might have changed in some drivers or across the board, or haven't, despite or because actions in the past quarter.
+- Statement about the state of the team when comparing with the average (e.g. some drivers might be negative, but aligned with other teams or considerably better than other teams). Offer a neutral and reasonable explanation why the team sentiment might have changed in some drivers or across the board, or haven't, despite or because actions in the past quarter.
 
 #### Identified Problems
 
