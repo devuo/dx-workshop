@@ -58,7 +58,7 @@ Clone the [DX Workshop File](https://lucid.app/lucidspark/0e330442-36f7-485f-85c
   - Take screenshots of DX Heatmap for your team for:
     - Sentiment (compared to none)
     - Sentiment (compared to previous snapshot)
-    - Sentiment (compared to pipedrive average)
+    - Sentiment (compared to company team average)
 - **In the Cloned Workshop File**:
   - Add the screenshots of the DX Heatmaps into the corresponding frames
   - Add the identified higher priorities and lowest sentiment to the priority/sentiment frame
