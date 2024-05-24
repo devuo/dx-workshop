@@ -1,6 +1,6 @@
 # DX Workshop Guide
 
-The DX Workshop is designed to assist teams in pinpointing specific issues their developers encounter with the most problematic drivers, as highlighted in their most recent Developer Experience surveys.
+The DX Workshop is designed to assist teams in pinpointing specific issues their developers encounter with the most problematic drivers, as highlighted in their most recent [Developer Experience surveys](https://getdx.com/products/devex360/).
 
 The structure of the Workshop ensures that every developer within a team, regardless of seniority or influence, has an equal opportunity to voice their concerns and propose solutions.
 
@@ -112,7 +112,9 @@ The following table contains the questions to be placed to developers in the pro
 
 ### Create a Workshop Summary
 
-Create a Workshop Summary document with the same structure and logic used in [link to DX Workshop Summary template] and add it as a child page of [link to DX Workshop area].
+Create a Workshop Summary document that maps out the teams problems and ideas identified during the workshop into a unified document to be shared with the team and other interested parties.
+
+This is the document that the team will refer to during the quarters as their ideas are implemented, as well as the document that represent the team's unified statement of their problems and ideas that are the responsibility of other teams and stakeholders to handle.
 
 The Workshop Summary document should have the following structure:
 
