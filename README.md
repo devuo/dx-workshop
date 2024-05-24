@@ -6,18 +6,24 @@ The structure of the Workshop ensures that every developer within a team, regard
 
 The goal is to help establish a collaborative continuous improvement environment inside each team, where concrete issues affecting Developer Experience are surfaced, and solutions are given the space to be implemented.
 
+This workshop was designed and in use by [Pipedrive](https://www.pipedrive.com/).
+
 ## Before Workshop
 
 ### Identify Workshop Drivers
 
 Check your team’s latest snapshot detail page in DX and identify the:
 
-- Top 3 Drivers with Lowest Sentiment
-- Top 3 Drivers with Highest Priority
+- **Top 3 Drivers with Lowest Sentiment**
+- **Top 3 Drivers with Highest Priority**
 
 At minimum you will identify 3 workshop drivers (if there’s a complete overlap in both low sentiment and priority) and at most 6, if the none of the drivers across sentiment and priority overlap.
 
 As you can see in the example below for _Example Team_, 4 drivers were identified for the workshop: Deep Work, Documentation, Test Efficiency and Codebase Experience.
+
+| ![Top 3 Drivers by Priorities](./top-3-priorities.png) | ![Lowest Top 3 Drivers by Sentiment](./top-3-sentiment.png) |
+|:---:|:---:|
+| **Top 3 Drivers by Priority** |  **Lowest Top 3 Drivers by Sentiment** |
 
 ### Prepare Workshop File
 
@@ -35,6 +41,10 @@ Clone the [DX Workshop File](https://lucid.app/lucidspark/0e330442-36f7-485f-85c
     - Make sure to set the sentiment value after the driver name
   - Modify the lanes in the “Problem Identification” and “Solution Ideation” frames to equal the identified drivers and colors
     - Make sure to add the correct descriptions in the “Problem Identification” frame lanes to match the drivers, as documented in the Driver descriptions table.
+   
+| ![Problem Identification Lanes Post Voting](./workshop-problems-and-votes.png) | ![DX Heatmap Screenshots in Workshop File](./workshop-survey-results-review.png) |
+|:---:|:---:|
+| **Problem Identification Lanes Post Voting** |  **DX Heatmap Screenshots in Workshop File** |
    
 ### Driver Problem Identification Questions
 
