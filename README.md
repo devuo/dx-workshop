@@ -8,6 +8,29 @@ The goal is to help establish a collaborative continuous improvement environment
 
 <sub>This workshop was designed and in use by [Pipedrive](https://www.pipedrive.com/).</sub>
 
+## Table of Contents
+
+- [Before Workshop](#before-workshop)
+  - [Identify Workshop Drivers](#identify-workshop-drivers)
+  - [Prepare Workshop File](#prepare-workshop-file)
+  - [Driver Problem Identification Questions](#driver-problem-identification-questions)
+  - [Schedule the Workshop](#schedule-the-workshop)
+- [During Workshop](#during-workshop)
+  - [Agenda \& Guidelines](#agenda--guidelines)
+    - [Introduction (~10m)](#introduction-10m)
+    - [Problem Identification (~21m)](#problem-identification-21m)
+    - [Solution Ideation (~21m)](#solution-ideation-21m)
+    - [Wrap Up (~8m)](#wrap-up-8m)
+- [After Workshop](#after-workshop)
+  - [Create a Workshop Summary](#create-a-workshop-summary)
+    - [Survey Results](#survey-results)
+    - [Identified Problems](#identified-problems)
+    - [Proposed Solutions](#proposed-solutions)
+    - [Next Steps](#next-steps)
+    - [Workshop](#workshop)
+  - [Solution Execution Planning](#solution-execution-planning)
+- [FAQ](#faq)
+
 ## Before Workshop
 
 ### Identify Workshop Drivers
